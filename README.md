@@ -24,8 +24,9 @@ questions, including the repeated ones.
 Here comes files like [README](README.md), that explains the project purposes
 and give you directions about how to go further. CONTRIBUTING, containing
 coding-standards, pull-request policies, how to run the tests and all the other
-development cool stuff. LICENSE, that explains what you can and - even more
-important - **can't** do with the code and the software that it produces.
+development cool stuff. [LICENSE](LICENSE.md), that explains what you can and -
+even more important - **can't** do with the code and the software that it
+produces.
 
 ## Where are they from?
 
