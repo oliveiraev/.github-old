@@ -11,7 +11,8 @@ project, where to find help, how to contribute and how to report issues.
 Repository services such as [Github](https://github.com) and
 [Gitlab](https://gitlab.com) also make use of specific files as templates like
 [issue](https://help.github.com/en/articles/creating-issue-templates-for-your-repository)
-and pull request templates.
+and [pull request](https://help.github.com/en/articles/creating-a-pull-request-template-for-your-repository)
+templates.
 
 ## Why are they important?
 
