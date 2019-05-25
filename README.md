@@ -8,9 +8,10 @@ serve as starting point for other repositories.
 Community files are "metacontent" that provide help to users on how to use the
 project, where to find help, how to contribute and how to report issues.
 
-Repository services such as [Github](https://github.com) and [Gitlab](https://gitlab.com)
-also make use of specific files as templates like issue and pull request
-templates.
+Repository services such as [Github](https://github.com) and
+[Gitlab](https://gitlab.com) also make use of specific files as templates like
+[issue](https://help.github.com/en/articles/creating-issue-templates-for-your-repository)
+and pull request templates.
 
 ## Why are they important?
 
