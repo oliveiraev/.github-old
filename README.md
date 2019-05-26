@@ -29,6 +29,8 @@ and give you directions about how to go further.
 policies, how to run the tests and all the other development cool stuff.
 [LICENSE](LICENSE.md), that explains what you can and - even more important -
 **can't** do with the code and the software that it produces.
+[SUPPORT](SUPPORT.md) files provide information about the community channels
+where you can get (and offer) help.
 
 ## Where are they from?
 
