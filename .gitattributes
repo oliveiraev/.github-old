@@ -1,0 +1,184 @@
+# -*- coding: utf-8 -*-
+# vim: set ai si sta et sw=4 sts=4 fenc=utf-8 nobomb eol ff=unix ft=conf:
+
+* text=auto
+*.3gp binary
+*.3gpp binary
+*.7z binary
+*.adoc text encoding=utf-8 eol=lf
+*.ai binary
+*.as binary
+*.asf binary
+*.asx binary
+AUTHORS text encoding=utf-8 eol=lf
+.babelrc text encoding=utf-8 eol=lf
+*.bash text encoding=utf-8 eol=lf
+*.bat text encoding=utf-8 eol=crlf
+*.bibtex text encoding=utf-8 eol=lf
+*.bmp binary
+*.bowerrc text encoding=utf-8 eol=lf
+.browserslistrc text encoding=utf-8 eol=lf
+browserslist text encoding=utf-8 eol=lf
+CHANGELOG text encoding=utf-8 eol=lf
+CHANGES text encoding=utf-8 eol=lf
+*.cmd text encoding=utf-8 eol=crlf
+*.cnf text encoding=utf-8 eol=lf
+*.coffee text encoding=utf-8 eol=lf
+*.config text encoding=utf-8 eol=lf
+*.conf text encoding=utf-8 eol=lf
+CONTRIBUTING text encoding=utf-8 eol=lf
+COPYING text encoding=utf-8 eol=lf
+copyright text encoding=utf-8 eol=lf
+*COPYRIGHT* text encoding=utf-8 eol=lf
+*.csproj text encoding=utf-8 eol=crlf merge=binary
+.csslintrc text encoding=utf-8 eol=lf
+*.css text encoding=utf-8 eol=lf
+*.csv text encoding=utf-8 eol=lf
+*.dbproj text encoding=utf-8 eol=crlf merge=binary
+*.[Dd]oc diff=astextplain
+Dockerfile text encoding=utf-8 eol=lf
+*.dockerignore text encoding=utf-8 eol=lf
+*.[Dd]ocx diff=astextplain
+*.dot text encoding=utf-8 eol=lf diff=astextplain
+*.DOT text encoding=utf-8 eol=lf diff=astextplain
+.editorconfig text encoding=utf-8 eol=lf
+*.ejs text encoding=utf-8 eol=lf
+.env text encoding=utf-8 eol=lf
+*.eot binary
+*.eps binary
+.eslintrc text encoding=utf-8 eol=lf
+*.exe binary
+*.filters text encoding=utf-8 eol=crlf merge=binary
+*.fl[av] binary
+*.fsproj text encoding=utf-8 eol=crlf merge=binary
+*.gif binary
+*.gifv binary
+.gitattributes text encoding=utf-8 eol=lf export-ignore
+.gitconfig text encoding=utf-8 eol=lf export-ignore
+.gitignore text encoding=utf-8 eol=lf export-ignore
+*.gz binary
+*.haml text encoding=utf-8 eol=lf
+*.handlebars text encoding=utf-8 eol=lf
+*.hb[st] text encoding=utf-8 eol=lf
+.htaccess text encoding=utf-8 eol=lf
+.htmlhintrc text encoding=utf-8 eol=lf
+*.html text encoding=utf-8 eol=lf
+*.htm text encoding=utf-8 eol=lf
+*.ico binary
+*.inc text encoding=utf-8 eol=lf
+*.ini text encoding=utf-8 eol=lf
+INSTALL text encoding=utf-8 eol=lf
+*.ipynb text encoding=utf-8 eol=lf
+*.jade text encoding=utf-8 eol=lf
+*.jar binary
+*.jng binary
+*.jp2 binary
+*.jpeg binary
+*.jpg binary
+*.jpx binary
+.jscsrc text encoding=utf-8 eol=lf
+.jshintignore text encoding=utf-8 eol=lf
+.jshintrc text encoding=utf-8 eol=lf
+*.json text encoding=utf-8 eol=lf
+*.js text encoding=utf-8 eol=lf
+*.jsx text encoding=utf-8 eol=lf
+*.jxr binary
+*.kar binary
+*.latte text encoding=utf-8 eol=lf
+*.less text encoding=utf-8 eol=lf
+license text encoding=utf-8 eol=lf
+LICENSE text encoding=utf-8 eol=lf
+*.lock text encoding=utf-8 eol=lf -diff
+*.lsproj text encoding=utf-8 eol=crlf merge=binary
+*.ls text encoding=utf-8 eol=lf
+*.m4[av] binary
+[Mm]akefile text encoding=utf-8 eol=lf
+*.map text encoding=utf-8 eol=lf -diff
+*.markdown text encoding=utf-8 eol=lf
+*.mdown text encoding=utf-8 eol=lf
+*.md text encoding=utf-8 eol=lf
+*.mdtext text encoding=utf-8 eol=lf
+*.mdtxt text encoding=utf-8 eol=lf
+*.mdwn text encoding=utf-8 eol=lf
+*.mid binary
+*.midi binary
+*.mkdn text encoding=utf-8 eol=lf
+*.mkd text encoding=utf-8 eol=lf
+*.mng binary
+*.modelproj text encoding=utf-8 eol=crlf merge=binary
+*.mov binary
+*.mp[34] binary
+*.mpeg binary
+*.mpg binary
+*.mustache text encoding=utf-8 eol=lf
+NEWS text encoding=utf-8 eol=lf
+*.njk text encoding=utf-8 eol=lf
+*.npmignore text encoding=utf-8 eol=lf
+*.od text encoding=utf-8 eol=lf
+*.og[gv] binary
+*.onlydata text encoding=utf-8 eol=lf
+*.otf binary
+package-lock.json text encoding=utf-8 eol=lf -diff
+*.pdf binary diff=astextplain
+*.PDF binary diff=astextplain
+*.php text encoding=utf-8 eol=lf
+*.phtml text encoding=utf-8 eol=lf
+*.pl text encoding=utf-8 eol=lf
+*.png binary
+Procfile text encoding=utf-8 eol=lf
+*.props text encoding=utf-8 eol=crlf merge=binary
+*.ps1 text encoding=utf-8 eol=crlf
+*.ps[bd] binary
+*.pyc binary
+*.py text encoding=utf-8 eol=lf
+*.ra binary
+*.rar binary
+*.rb text encoding=utf-8 eol=lf
+readme text encoding=utf-8 eol=lf
+*README* text encoding=utf-8 eol=lf
+*.rtf text encoding=utf-8 eol=lf diff=astextplain
+*.RTF text encoding=utf-8 eol=lf diff=astextplain
+*.sass text encoding=utf-8 eol=lf
+*.scm text encoding=utf-8 eol=lf
+*.scss text encoding=utf-8 eol=lf
+*.sh text encoding=utf-8 eol=lf
+*.sln text encoding=utf-8 eol=crlf merge=binary
+.slugignore text encoding=utf-8 eol=lf
+*.sqlproj text encoding=utf-8 eol=crlf merge=binary
+*.sql text encoding=utf-8 eol=lf
+.stylelintrc text encoding=utf-8 eol=lf
+*.styl text encoding=utf-8 eol=lf
+*.svg binary
+*.svgz binary
+*.sw[cf] binary
+*.ta[bg] text encoding=utf-8 eol=lf
+*.tar binary
+*.tex text encoding=utf-8 eol=lf
+*.textile text encoding=utf-8 eol=lf
+*.tif binary
+*.tiff binary
+*.tmpl text encoding=utf-8 eol=lf
+TODO text encoding=utf-8 eol=lf
+*.tpl text encoding=utf-8 eol=lf
+*.ts text encoding=utf-8 eol=lf
+*.ts[vx] text encoding=utf-8 eol=lf
+*.ttf binary
+*.twig text encoding=utf-8 eol=lf
+*.txt text encoding=utf-8 eol=lf
+*.v[bc]proj text encoding=utf-8 eol=crlf merge=binary
+*.vcxitems text encoding=utf-8 eol=crlf merge=binary
+*.vcxproj text encoding=utf-8 eol=crlf merge=binary
+*.vue text encoding=utf-8 eol=lf
+*.wbmp binary
+*.web[mp] binary
+*.wixproj text encoding=utf-8 eol=crlf merge=binary
+*.wmaproj text encoding=utf-8 eol=crlf
+*.woff2 binary
+*.woff binary
+*.wwaproj merge=binary
+*.xhtml text encoding=utf-8 eol=lf
+*.xml text encoding=utf-8 eol=lf
+*.xproj text encoding=utf-8 eol=crlf merge=binary
+*.yaml text encoding=utf-8 eol=lf
+*.yml text encoding=utf-8 eol=lf
+*.zip binary
