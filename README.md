@@ -23,10 +23,10 @@ questions, including the repeated ones.
 Here comes files like [README][src:readme.md], that explains the project
 purposes and give you directions about how to go further. CONTRIBUTING,
 containing coding-standards, pull-request policies, how to run the tests and
-all the other development cool stuff. LICENSE, that explains what you can and -
-even more important - **can't** do with the code and the software that it
-produces.  SUPPORT files provide information about the community channels where
-you can get (and offer) help.
+all the other development cool stuff. [LICENSE][src:license.md], that explains
+what you can and - even more important - **can't** do with the code and the
+software that it produces. SUPPORT files provide information about the
+community channels where you can get (and offer) help.
 
 ## Where are they from?
 
@@ -102,7 +102,7 @@ freeze period, [staging][branch:staging] commits are tagged as *-RC*
 
 ## License
 
-This project is licensed under Lesser GNU Public License v3
+This project is licensed under [Lesser GNU Public License v3][src:license.md]
 
 ![LGPLv3 Logo](https://www.gnu.org/graphics/lgplv3-88x31.png)
 
@@ -131,6 +131,7 @@ This project is licensed under Lesser GNU Public License v3
 [guide:contribute]: https://opensource.guide/how-to-contribute/
 
 [src:readme.md]: README.md
+[src:license.md]: LICENSE.md
 [src:.gitignore]: .gitignore
 [src:.gitattributes]: .gitattributes
 
